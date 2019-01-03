@@ -1,0 +1,6 @@
+.cursorEdit {
+  cursor: pointer;
+}
+.cursorEdit:hover {
+  color: red;
+}
